@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Jeremiestar
+- 👀 I’m interested in web development and game development.
+- 🌱 I’m currently learning React.JS
+- 💞️ I’m looking to collaborate on game and web development.
+- 📫 To reach me please call 256+85833340/email me using nkonojeremie@gmail.com
+- ⚡ Fun fact: I am 13 years old and i am African.
